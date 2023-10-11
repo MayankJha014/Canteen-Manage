@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml:6:1-13:12
+INJECTED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml:6:1-13:12
+INJECTED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml:6:1-13:12
+	package
+		ADDED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml:7:3-43
+		INJECTED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml
+		INJECTED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml:6:11-69
+application
+ADDED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml:8:3-12:17
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml:9:5-11:30
+	android:value
+		ADDED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml:11:7-27
+	android:name
+		ADDED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml:10:7-63
+uses-sdk
+INJECTED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml
+INJECTED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml
+INJECTED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml
+INJECTED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml
+		ADDED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml
+		INJECTED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml
+		ADDED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml
+		INJECTED from C:\flutter\.pub-cache\hosted\pub.dartlang.org\pay_android-1.0.7\android\src\main\AndroidManifest.xml

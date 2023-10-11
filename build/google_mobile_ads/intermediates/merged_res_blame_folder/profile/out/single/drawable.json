@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1a4e1339d0594b9523319f9876c3a77c\\transformed\\jetified-play-services-base-18.0.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1a4e1339d0594b9523319f9876c3a77c\\transformed\\jetified-play-services-base-18.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1a4e1339d0594b9523319f9876c3a77c\\transformed\\jetified-play-services-base-18.0.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\admob_close_button_black_circle_white_cross.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\c74fe132dc4cdf1f01718f44bc35553e\\transformed\\jetified-play-services-ads-21.0.0\\res\\drawable\\admob_close_button_black_circle_white_cross.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1a4e1339d0594b9523319f9876c3a77c\\transformed\\jetified-play-services-base-18.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1a4e1339d0594b9523319f9876c3a77c\\transformed\\jetified-play-services-base-18.0.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1a4e1339d0594b9523319f9876c3a77c\\transformed\\jetified-play-services-base-18.0.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1a4e1339d0594b9523319f9876c3a77c\\transformed\\jetified-play-services-base-18.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1a4e1339d0594b9523319f9876c3a77c\\transformed\\jetified-play-services-base-18.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1a4e1339d0594b9523319f9876c3a77c\\transformed\\jetified-play-services-base-18.0.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\admob_close_button_white_circle_black_cross.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\c74fe132dc4cdf1f01718f44bc35553e\\transformed\\jetified-play-services-ads-21.0.0\\res\\drawable\\admob_close_button_white_circle_black_cross.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1a4e1339d0594b9523319f9876c3a77c\\transformed\\jetified-play-services-base-18.0.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1a4e1339d0594b9523319f9876c3a77c\\transformed\\jetified-play-services-base-18.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1a4e1339d0594b9523319f9876c3a77c\\transformed\\jetified-play-services-base-18.0.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1a4e1339d0594b9523319f9876c3a77c\\transformed\\jetified-play-services-base-18.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\google_mobile_ads\\intermediates\\merged_res\\profile\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1a4e1339d0594b9523319f9876c3a77c\\transformed\\jetified-play-services-base-18.0.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    }
+]

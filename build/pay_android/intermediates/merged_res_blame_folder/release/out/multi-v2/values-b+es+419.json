@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\pay_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-b+es+419\\values-b+es+419.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\81a0c4259db5698ca7f8a7935112d267\\transformed\\jetified-play-services-wallet-18.1.2\\res\\values-b+es+419\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "208",
+                        "endColumns": "102",
+                        "endOffsets": "310"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "106",
+                        "endOffsets": "157"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\pay_android\\intermediates\\merged_res\\release\\values-b+es+419\\values-b+es+419.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\81a0c4259db5698ca7f8a7935112d267\\transformed\\jetified-play-services-wallet-18.1.2\\res\\values-b+es+419\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "208",
+                        "endColumns": "102",
+                        "endOffsets": "310"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "106",
+                        "endOffsets": "157"
+                    }
+                }
+            ]
+        }
+    ]
+}

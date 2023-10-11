@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\razorpay_flutter\\intermediates\\merged_res\\profile\\values-id\\values-id.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1edd10558a75ce738ad4fca961ccb9b1\\transformed\\jetified-play-services-wallet-18.1.3\\res\\values-id\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "202",
+                        "endColumns": "73",
+                        "endOffsets": "275"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "77",
+                        "endOffsets": "128"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\razorpay_flutter\\intermediates\\incremental\\mergeProfileResources\\merged.dir\\values-id\\values-id.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\1edd10558a75ce738ad4fca961ccb9b1\\transformed\\jetified-play-services-wallet-18.1.3\\res\\values-id\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "202",
+                        "endColumns": "73",
+                        "endOffsets": "275"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "77",
+                        "endOffsets": "128"
+                    }
+                }
+            ]
+        }
+    ]
+}

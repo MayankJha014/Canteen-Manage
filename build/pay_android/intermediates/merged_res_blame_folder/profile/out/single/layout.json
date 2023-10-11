@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\pay_android\\intermediates\\merged_res\\profile\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\pay_android\\intermediates\\merged_res\\profile\\layout\\wallet_test_layout.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\81a0c4259db5698ca7f8a7935112d267\\transformed\\jetified-play-services-wallet-18.1.2\\res\\layout\\wallet_test_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\pay_android\\intermediates\\merged_res\\profile\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\pay_android\\intermediates\\merged_res\\profile\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\pay_android\\intermediates\\merged_res\\profile\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\pay_android\\intermediates\\merged_res\\profile\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\pay_android\\intermediates\\merged_res\\profile\\layout\\notification_action.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    }
+]

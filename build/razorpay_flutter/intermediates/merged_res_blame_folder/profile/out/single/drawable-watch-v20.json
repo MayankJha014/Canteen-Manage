@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\razorpay_flutter\\intermediates\\merged_res\\profile\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\cd485411926a6fe063c6645ccd1141b6\\transformed\\jetified-play-services-auth-17.0.0\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\razorpay_flutter\\intermediates\\merged_res\\profile\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\cd485411926a6fe063c6645ccd1141b6\\transformed\\jetified-play-services-auth-17.0.0\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Flutter Projects\\zomato_clone\\build\\razorpay_flutter\\intermediates\\merged_res\\profile\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-3\\cd485411926a6fe063c6645ccd1141b6\\transformed\\jetified-play-services-auth-17.0.0\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    }
+]
